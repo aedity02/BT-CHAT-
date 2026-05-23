@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue)](https://developer.android.com/studio) <!-- Update if Flutter/React Native -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-**BlueLink** is a peer-to-peer communication app that connects devices via **Bluetooth** (Classic & BLE). It enables:
+**BT-CHAT** is a peer-to-peer communication app that connects devices via **Bluetooth** (Classic & BLE). It enables:
 - Real-time text chat
 - High-quality voice calls (HD audio)
 - **Unsend** messages after they've been sent
